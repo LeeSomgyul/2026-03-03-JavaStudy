@@ -1,6 +1,8 @@
+//등수 구하기
+
 import java.util.*;
 
-public class CalculateRank {
+public class Calculate_1 {
 
 	public static void main(String[] args) {
 		
