@@ -126,5 +126,7 @@ public class 숫자야구게임 extends JFrame implements ActionListener, Rand{
 		}
 		
 	}
+	
+	
 
 }
