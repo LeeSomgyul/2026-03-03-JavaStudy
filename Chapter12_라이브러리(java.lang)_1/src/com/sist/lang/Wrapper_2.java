@@ -32,6 +32,8 @@ public class Wrapper_2 {
 		}else if(no == 3) {
 			c.ccc();
 		}
+		
+		
 	}
 
 }
